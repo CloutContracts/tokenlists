@@ -4,4 +4,5 @@
 
 ##### ENS Lists:
 [cloutcontracts.eth](https://cloutcontracts.eth/) \
-[etc.cloutcontracts.eth](https://etc.cloutcontracts.eth/)
+[etc.cloutcontracts.eth](https://etc.cloutcontracts.eth) \
+[bnb.cloutcontracts.eth](https://bnb.cloutcontracts.eth)
