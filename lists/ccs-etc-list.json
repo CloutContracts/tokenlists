@@ -1,6 +1,6 @@
 {
-  "name": "Birb Tokens List",
-  "logoURI": "ipfs://QmPL3vdJvf6QD9JRe5krkWC8WcJ19B9Hbnxpd7wc3umVxB",
+  "name": "CCS ETC Token List",
+  "logoURI": "ipfs://QmRSiWRuBa9Lyd3fxoySCsa55AJRx42ukbs9SjVoSCmghr",
   "keywords": ["neutral", "mineable", "decentralized", "special tokens"],
   "tags": {
     "mineable": {
@@ -20,57 +20,39 @@
       "description": "Tokens that have no central monarch, service, or central bank"
     }
   },
-  "timestamp": "2020-06-12T00:00:00+00:00",
+  "timestamp": "2021-08-25T00:00:00+00:00",
   "tokens": [
     {
-      "chainId": 1,
-      "address": "0x216d7636b791Ed93BFD56BF696b35A14115416ab",
-      "symbol": "BRB",
-      "name": "BIRB Token",
-      "decimals": 8,
-      "logoURI": "ipfs://QmPL3vdJvf6QD9JRe5krkWC8WcJ19B9Hbnxpd7wc3umVxB",
-      "tags": ["atomic"]
+      "chainId": 61,
+      "address": "0x9186ff77866DfD1007429F552e48C6d1A927297A",
+      "symbol": "CCS",
+      "name": "CloutContracts_Peg",
+      "decimals": 0,
+      "logoURI": "ipfs://QmRSiWRuBa9Lyd3fxoySCsa55AJRx42ukbs9SjVoSCmghr",
+      "tags": ["decentralized"]
     },
     {
-      "chainId": 1,
-      "address": "0xb6ed7644c69416d67b522e20bc294a9a9b405b31",
-      "symbol": "0xBTC",
-      "name": "0xBitcoin",
+      "chainId": 61,
+      "address": "0xb24Ec17B4A200E49691687072cEC3a76dF9166CE",
+      "symbol": "HSTE",
+      "name": "HashStake",
       "decimals": 8,
-      "logoURI": "ipfs://QmRSHPBUVAPjaEpNhjiicfaGb1w5rKsAq7McPkmd61VhKq",
+      "logoURI": "https://etherscan.io/token/images/etherstone_28.png",
       "tags": ["mineable"]
     },
     {
-      "chainId": 1,
-      "address": "0x2bf91c18cd4ae9c2f2858ef9fe518180f7b5096d",
-      "symbol": "KIWI",
-      "name": "KIWI Token",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/10799/thumb/kiwi_256.png?1583736957",
-      "tags": ["mineable"]
-    },
-    {
-      "chainId": 1,
-      "address": "0x26946ada5ecb57f3a1f91605050ce45c482c9eb1",
-      "symbol": "BSOV",
-      "name": "BSOV Token",
-      "decimals": 8,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4306.png",
-      "tags": ["mineable"]
-    },
-    {
-      "chainId": 1,
-      "address": "0x4ba6ddd7b89ed838fed25d208d4f644106e34279",
-      "symbol": "VETH",
-      "name": "Vether",
+      "chainId": 61,
+      "address": "0x085B0FDf115aA9E16AE1Bddd396CE1F993c52220",
+      "symbol": "ONEX",
+      "name": "ONEX Network ",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/11375/small/vether-symbol-coingecko.png?1622341592",
-      "tags": ["neutral"]
+      "logoURI": "https://static.coinpaprika.com/coin/onex-onex-network/logo.png",
+      "tags": ["atomic"]
     }
   ],
   "version": {
     "major": 1,
-    "minor": 2,
+    "minor": 0,
     "patch": 0
   }
 }
