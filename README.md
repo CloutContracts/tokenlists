@@ -6,3 +6,5 @@
 [cloutcontracts.eth](https://cloutcontracts.eth/) \
 [etc.cloutcontracts.eth](https://etc.cloutcontracts.eth) \
 [bnb.cloutcontracts.eth](https://bnb.cloutcontracts.eth)
+
+**Please keep in mind these are technological utilities, none of the code work here is meant to be thought of as financial advice or investment opportunities.**
