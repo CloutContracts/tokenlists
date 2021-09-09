@@ -1,16 +1,16 @@
 {
-  "name": "Wrapped Tokens",
-  "logoURI": "https://cloudflare-ipfs.com/ipfs/QmUJQF5rDNQn37ToqCynz6iecGqAmeKHDQCigJWpUwuVLN",
-  "keywords": ["wrapped", "bitcoin", "ether"],
+  "name": "CCS List",
+  "logoURI": "ipfs://QmRSiWRuBa9Lyd3fxoySCsa55AJRx42ukbs9SjVoSCmghr",
+  "keywords": ["decentralized", "bitcoin", "ether"],
   "timestamp": "2021-07-06T18:18:00+00:00",
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
-      "symbol": "WBTC",
-      "name": "Wrapped BTC",
-      "decimals": 8,
-      "tags": ["wrapped", "bitcoin"]
+      "address": "0x1da4858ad385cc377165a298cc2ce3fce0c5fd31",
+      "symbol": "CCS",
+      "name": "CloutContracts",
+      "decimals": 0,
+      "tags": ["decentralized"]
     },
     {
       "chainId": 1,
