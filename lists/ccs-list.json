@@ -2,24 +2,6 @@
   "name": "CCS Tokens List",
   "logoURI": "ipfs://QmRSiWRuBa9Lyd3fxoySCsa55AJRx42ukbs9SjVoSCmghr",
   "keywords": ["neutral", "mineable", "decentralized", "special tokens"],
-  "tags": {
-    "mineable": {      
-      "name": "Mineable",
-      "description": "Tokens that are pure mined using Proof of Work"
-    },
-    "atomic": {
-      "name": "Atomic",
-      "description": "Tokens that are fixed to an internal Ethereum asset"
-    },
-    "neutral": {
-      "name": "Neutral",
-      "description": "Tokens that have mathmatically neutral distibution"
-    },
-    "decentralized": {
-      "name": "Decentralized",
-      "description": "Tokens that have no central monarch, service, or central bank"
-    }
-  },
   "timestamp": "2021-08-25T00:00:00+00:00",
   "tokens": [    
     {
