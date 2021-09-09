@@ -1,0 +1,22 @@
+
+{
+	"name": "CCS ERC20 Test",
+	"timestamp": "2020-12-04T12:00:21.269Z",
+	"version": {
+		"major": 1,
+		"minor": 0,
+		"patch": 0
+	},
+	"tags": {},
+	"logoURI": "ipfs://QmRSiWRuBa9Lyd3fxoySCsa55AJRx42ukbs9SjVoSCmghr",
+	"tokens": [
+		{
+		  "name": "CloutContracts",
+		  "address": "0x1da4858ad385cc377165a298cc2ce3fce0c5fd31",
+		  "symbol": "CCS",
+		  "decimals": 0,
+		  "chainId": 1,
+		  "logoURI": "ipfs://QmRSiWRuBa9Lyd3fxoySCsa55AJRx42ukbs9SjVoSCmghr"
+		}
+	  ]
+	}
