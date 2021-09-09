@@ -1,0 +1,41 @@
+{
+  "name": "CCS Tokens List",
+  "logoURI": "ipfs://QmRSiWRuBa9Lyd3fxoySCsa55AJRx42ukbs9SjVoSCmghr",
+  "keywords": ["audited", "mineable", "special tokens"],
+  "tags": {
+    "mineable": {
+      "name": "Mineable",
+      "description": "Tokens that are pure mined using Proof of Work"
+    },
+    "atomic": {
+      "name": "Atomic",
+      "description": "Tokens that are fixed to an internal Ethereum asset"
+    }
+  },
+  "timestamp": "2021-09-09T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x1da4858ad385cc377165a298cc2ce3fce0c5fd31",
+      "symbol": "CCS",
+      "name": "CloutContracts",
+      "decimals": 0,
+      "logoURI": "ipfs://QmRSiWRuBa9Lyd3fxoySCsa55AJRx42ukbs9SjVoSCmghr",
+      "tags": ["decentralized"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf5ba8a8c87f976b79b17ccd25ee8dc2f8e82fb59",
+      "symbol": "ETHS",
+      "name": "EtherStone",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/etherstone_28.png",
+      "tags": ["mineable"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
