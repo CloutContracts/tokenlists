@@ -1,7 +1,6 @@
 {
   "name": "CCS List",
   "logoURI": "ipfs://QmRSiWRuBa9Lyd3fxoySCsa55AJRx42ukbs9SjVoSCmghr",
-  "keywords": ["decentralized", "bitcoin", "ether"],
   "timestamp": "2021-09-09T18:18:00+00:00",
   "tokens": [
     {
@@ -10,7 +9,7 @@
       "symbol": "CCS",
       "name": "CloutContracts",
       "decimals": 0,
-      "tags": ["decentralized"]
+      "logoURI": "ipfs://QmRSiWRuBa9Lyd3fxoySCsa55AJRx42ukbs9SjVoSCmghr",
     }
   ],
   "version": {
