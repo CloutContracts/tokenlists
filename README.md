@@ -1,7 +1,7 @@
 ![CCSLOGO](https://raw.githubusercontent.com/CloutContracts/cloutcontracts.github.io/main/assets/images/c-128x128.png)
 # CloutContracts Token Lists
 
-[Main List](https://tokenlists.org/token-list?url=https://gateway.pinata.cloud/ipfs/QmPKRFtiqyRyhtZDk1arByWW9ihWT1PAsPgUtUozkfe9jr) | [ETC Peg]( https://tokenlists.org/token-list?url=https://gateway.pinata.cloud/ipfs/QmcZUZp9HNPgXno6Bi69AwhtgUE3JtcszVP7aL2etDo1MD) | [BNB Peg](https://tokenlists.org/token-list?url=https://gateway.pinata.cloud/ipfs/QmXVYDsbaMcK8NjqjMx1XDFEWpP3BsD2hw5Rmy2P8F2VJa)
+[Main List](https://tokenlists.org/token-list?url=https://gateway.pinata.cloud/ipfs/QmYr9NpNRiSAAj57zD63aeXrY1Fs8SWhwYKEMgDY1xTDYq) | [ETC Peg]( https://tokenlists.org/token-list?url=https://gateway.pinata.cloud/ipfs/QmYjvp7ybSyHN3Mt2fzPE97GsrB3iT9k9mLojXTwSYo2YM) | [BNB Peg](https://tokenlists.org/token-list?url=https://gateway.pinata.cloud/ipfs/QmRruHAJrHyCWSh9Xqh6pviGjjbgLRnVTuu8hRKUJZkKHw)
 
 ##### ENS Lists:
 [cloutcontracts.eth](https://cloutcontracts.eth.link) \
