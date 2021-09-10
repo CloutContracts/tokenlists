@@ -1,58 +1,37 @@
 {
-  "name": "CCS ETC Token List",
-  "logoURI": "ipfs://QmRSiWRuBa9Lyd3fxoySCsa55AJRx42ukbs9SjVoSCmghr",
-  "keywords": ["neutral", "mineable", "decentralized", "special tokens"],
-  "tags": {
-    "mineable": {
-      "name": "Mineable",
-      "description": "Tokens that are pure mined using Proof of Work"
-    },
-    "atomic": {
-      "name": "Atomic",
-      "description": "Tokens that are fixed to an internal Ethereum asset"
-    },
-    "neutral": {
-      "name": "Neutral",
-      "description": "Tokens that have mathmatically neutral distibution"
-    },
-    "decentralized": {
-      "name": "Decentralized",
-      "description": "Tokens that have no central monarch, service, or central bank"
-    }
-  },
-  "timestamp": "2021-08-25T00:00:00+00:00",
-  "tokens": [
-    {
-      "chainId": 61,
-      "address": "0x9186ff77866DfD1007429F552e48C6d1A927297A",
-      "symbol": "CCS",
-      "name": "CloutContracts_Peg",
-      "decimals": 0,
-      "logoURI": "ipfs://QmRSiWRuBa9Lyd3fxoySCsa55AJRx42ukbs9SjVoSCmghr",
-      "tags": ["decentralized"]
-    },
-    {
-      "chainId": 61,
-      "address": "0xb24Ec17B4A200E49691687072cEC3a76dF9166CE",
-      "symbol": "HSTE",
-      "name": "HashStake",
-      "decimals": 8,
-      "logoURI": "https://etherscan.io/token/images/etherstone_28.png",
-      "tags": ["mineable"]
-    },
-    {
-      "chainId": 61,
-      "address": "0x085B0FDf115aA9E16AE1Bddd396CE1F993c52220",
-      "symbol": "ONEX",
-      "name": "ONEX Network ",
-      "decimals": 18,
-      "logoURI": "https://static.coinpaprika.com/coin/onex-onex-network/logo.png",
-      "tags": ["atomic"]
-    }
-  ],
-  "version": {
-    "major": 1,
-    "minor": 0,
-    "patch": 0
-  }
-}
+	"name": "CCS ETC Token List",
+	"timestamp": "2020-12-04T12:00:21.269Z",
+	"version": {
+		"major": 2,
+		"minor": 0,
+		"patch": 0
+	},
+	"tags": {},
+	"logoURI": "ipfs://QmRSiWRuBa9Lyd3fxoySCsa55AJRx42ukbs9SjVoSCmghr",
+	"tokens": [
+		{
+		  "name": "CloutContracts",
+		  "address": "0x9186ff77866DfD1007429F552e48C6d1A927297A",
+		  "symbol": "CCS",
+		  "decimals": 0,
+		  "chainId": 61,
+		  "logoURI": "ipfs://QmRSiWRuBa9Lyd3fxoySCsa55AJRx42ukbs9SjVoSCmghr"
+		},
+		{
+		  "name": "HashStake",
+		  "address": "0xb24Ec17B4A200E49691687072cEC3a76dF9166CE",
+		  "symbol": "HSTE",
+		  "decimals": 8,
+		  "chainId": 61,
+		  "logoURI": "https://etherscan.io/token/images/etherstone_28.png"
+		},
+		{
+		  "name": "ONEX Network",
+		  "address": "0x085B0FDf115aA9E16AE1Bddd396CE1F993c52220",
+		  "symbol": "ONEX",
+		  "decimals": 18,
+		  "chainId": 61,
+		  "logoURI": "https://static.coinpaprika.com/coin/onex-onex-network/logo.png"
+		}       
+	  ]
+	}
