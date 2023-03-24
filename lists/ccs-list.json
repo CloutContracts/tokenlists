@@ -1,8 +1,8 @@
 {
 	"name": "CCS Tokens List",
-	"timestamp": "2021-09-10T12:00:21.269Z",
+	"timestamp": "2023-03-23T12:00:21.269Z",
 	"version": {
-		"major": 2,
+		"major": 3,
 		"minor": 0,
 		"patch": 0
 	},
@@ -17,6 +17,14 @@
 		  "chainId": 1,
 		  "logoURI": "ipfs://QmRSiWRuBa9Lyd3fxoySCsa55AJRx42ukbs9SjVoSCmghr"
 		},
+		{
+		  "name": "Crosschain CloutContracts",
+		  "address": "0xf79deaBc1406a3AD07c70877fBaEb90777B77E68",
+		  "symbol": "CCCS",
+		  "decimals": 0,
+		  "chainId": 1,
+		  "logoURI": "ipfs://QmRSiWRuBa9Lyd3fxoySCsa55AJRx42ukbs9SjVoSCmghr"
+		},		
 		{
 		  "name": "0xBitCoin",
 		  "address": "0xb6ed7644c69416d67b522e20bc294a9a9b405b31",
