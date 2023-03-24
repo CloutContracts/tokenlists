@@ -1,14 +1,6 @@
 {
-  "CCS/BTC": {
-    "price": 0.0039,
+  "CCS/USDT": {
+    "price": 110,
     "up": 0.15,
     "down": 0.1
   }
-},
-{
-  "CCS/ETH": {
-    "price": 0.062,
-    "up": 0.15,
-    "down": 0.1
-  }
-}
